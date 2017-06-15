@@ -1,4 +1,4 @@
-package com.loneboat.dmanager.main;
+package com.loneboat.dmanager;
 
 import com.loneboat.dmanager.tools.spellsearcher.SpellSearcher;
 import javafx.stage.Stage;

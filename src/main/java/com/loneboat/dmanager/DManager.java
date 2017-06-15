@@ -1,4 +1,4 @@
-package com.loneboat.dmanager.main;
+package com.loneboat.dmanager;
 
 import com.loneboat.dmanager.misc.ResourceAccessor;
 import javafx.application.Application;
